@@ -15,6 +15,9 @@
 
 # Generated files
 .idea/
+
+.DS_Store
+
 .idea/**/contentModel.xml
 
 # Sensitive or high-churn files
