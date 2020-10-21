@@ -14,10 +14,6 @@
 .idea/**/shelf
 
 # Generated files
-.idea/
-
-.DS_Store
-
 .idea/**/contentModel.xml
 .idea/
 # Sensitive or high-churn files
